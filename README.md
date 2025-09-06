@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Thipphawan🐤
+Tangkwa
+croissant🥐
+
 <!--
 **Barbiesom1001/Barbiesom1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
