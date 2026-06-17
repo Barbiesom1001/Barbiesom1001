@@ -45,9 +45,8 @@ A Developer and Data Analyst. Experienced in building web applications and worki
 
 ### 📊 My GitHub Stats
 
-![Barbiesom1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbiesom1001&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiesom1001&layout=compact&theme=radial)
-
+![Barbiesom1001's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Barbiesom1001&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Barbiesom1001&layout=compact&theme=radial)
 ---
 
 ### 📫 Connect with me
