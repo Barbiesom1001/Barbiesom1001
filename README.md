@@ -1,4 +1,4 @@
-# Hi there 👋, I'm ˚⋆𐙚⋆Barbieso༘⋆𖦹.✧˚
+# Hi there ⸜(｡˃ ᵕ ˂)⸝♡ , I'm ˚⋆𐙚⋆Barbieso༘⋆𖦹.✧˚
 
 A Developer and Data Analyst. Experienced in building web applications and working with data science projects.
 
@@ -24,7 +24,10 @@ A Developer and Data Analyst. Experienced in building web applications and worki
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Cosplay](https://img.shields.io/badge/Hobby-Cosplay-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)
+---
+
+### 🎨 Hobby
+- I am a cosplayer! I love bringing my favorite characters to life and attending anime conventions in my free time.
 
 ---
 
@@ -49,7 +52,8 @@ A Developer and Data Analyst. Experienced in building web applications and worki
 
 ![Barbiesom1001's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Barbiesom1001&show_icons=true&theme=radial)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Barbiesom1001&layout=compact&theme=radial)
+
 ---
 
 ### 📫 Connect with me
-- 📧 **Email:** [thipphawan.yimneam@gmail.com]
+- 📧 **Email:** thipphawan.yimneam@gmail.com
