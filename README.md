@@ -1,7 +1,6 @@
 # Hi there 👋, I'm ˚⋆𐙚⋆Barbieso༘⋆𖦹.✧˚
 
 A Developer and Data Analyst. Experienced in building web applications and working with data science projects.
-- 🎨 **Hobby:** I love cosplaying and attending anime conventions in my free time!
 
 ---
 
@@ -24,6 +23,8 @@ A Developer and Data Analyst. Experienced in building web applications and worki
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Cosplay](https://img.shields.io/badge/Hobby-Cosplay-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)
 
 ---
 
