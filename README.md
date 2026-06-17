@@ -1,6 +1,7 @@
 # Hi there 👋, I'm ˚⋆𐙚⋆Barbieso༘⋆𖦹.✧˚
 
 A Developer and Data Analyst. Experienced in building web applications and working with data science projects.
+- 🎨 **Hobby:** I love cosplaying and attending anime conventions in my free time!
 
 ---
 
