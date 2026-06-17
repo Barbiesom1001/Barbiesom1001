@@ -27,7 +27,7 @@ A Developer and Data Analyst. Experienced in building web applications and worki
 ---
 
 ### 🎨 Hobby
-- I am a cosplayer! I love bringing my favorite characters to life and attending anime conventions in my free time.
+- I'm a cosplayer! I love bringing my favorite characters to life and visiting events.
 
 ---
 
